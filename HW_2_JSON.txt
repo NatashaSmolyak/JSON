@@ -54,23 +54,23 @@ JSON
     12.1. $ git add preferences.json skills.json
     12.2. $ git commit -m "Add preferences.json skills.json"
     12.3. $ git push
- 16. На веб интерфейсе создать файл bug_report.json.
-    16.1. Создаем файл bug_report.json: Add file/Create new file
-    16.2. Заполняем Title - - "Create file ug_report.json"
-    16.3. Устанавливаем  переключатель: Commit directly to the main branch
-    16.4. Нажимаем кнопку [Commit new file]
+ 13. На веб интерфейсе создать файл bug_report.json.
+    13.1. Создаем файл bug_report.json: Add file/Create new file
+    13.2. Заполняем Title - - "Create file ug_report.json"
+    13.3. Устанавливаем  переключатель: Commit directly to the main branch
+    13.4. Нажимаем кнопку [Commit new file]
  
- 17. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
-    17.1. Открываем файл bug_report.json.
-    17.2. Выволняем команду Edit this file.
-    17.3. Вводимт текст в формате JSON.
+ 14. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+    14.1. Открываем файл bug_report.json.
+    14.2. Выволняем команду Edit this file.
+    14.3. Вводимт текст в формате JSON.
  
- 18. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-    18.1. Заполняем Title - "Modified file sug_report.json"
-    18.2. Устанавливаем  переключатель: Commit directly to the main branch.
-    18.3. Нажимаем кнопку [Commit changes].\
+ 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+    15.1. Заполняем Title - "Modified file sug_report.json"
+    15.2. Устанавливаем  переключатель: Commit directly to the main branch.
+    15.3. Нажимаем кнопку [Commit changes].\
 	
- 19. Синхронизировать внешний и локальный репозиторий JSON.
-    19.1. Узнаем про изменения на внешнем репозитории: $ git fetch
-    19.2. Скачиваем изменения на локальный репозиторий: $ git pull
-    19.3. Снова проверяем изменения (что пусто): $ git fetch
+ 16. Синхронизировать внешний и локальный репозиторий JSON.
+    16.1. Узнаем про изменения на внешнем репозитории: $ git fetch
+    16.2. Скачиваем изменения на локальный репозиторий: $ git pull
+    16.3. Снова проверяем изменения (что пусто): $ git fetch
